@@ -8,3 +8,5 @@
  * [ ] step 6 ==> push the artifacts to Jfrog
  * [ ] step 7 ==> deploy prometheus and grafana using Docker 
  * [ ] step 8 ==> Monitor the app 
+
+test app on http://localhost:8080/hello?name=Dorra
