@@ -10,3 +10,5 @@
  * [ ] step 8 ==> Monitor the app 
 
 test app on http://localhost:8080/hello?name=Dorra
+before running docker build -t myapp . command run mvn wrapper:wrapper to create the .mvn folder.
+
